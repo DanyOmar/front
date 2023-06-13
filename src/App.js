@@ -18,7 +18,7 @@ function App() {
             Sistema de control de inventario para la empresa encatex.
             Esta aplicación tiene como objetivo controlar el inventario dentro de la empresa y que
             luego pueda visualizar en cualquier parte con conexión a internet el inventario en tiempo
-            real y pueda hacer pedidos para eliminar y registrar productos.
+            real y pueda hacer pedidos para eliminagir y registrar productos.
             El sistema de inventarios será un producto diseñado para ayudar a las personas a
             mejorar sus productos en stock con el fin de llevar una mejor organización interna y
             externa, siendo escalable para poder a futuro ser una aplicación móvil.
